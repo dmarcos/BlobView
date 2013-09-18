@@ -1,6 +1,6 @@
 (function() {
 
-  describe('Tests read operations of blobview.js', function() {
+  describe('Tests write operations of blobview.js', function() {
 
   var blob;
   beforeEach(function() {
